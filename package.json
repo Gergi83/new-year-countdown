@@ -1,0 +1,11 @@
+{
+  "name": "new-year-countdown",
+  "version": "1.0.0",
+  "description": "simple app to count down time to next new year",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Georgi Yordanov",
+  "license": "ISC"
+}
